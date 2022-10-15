@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/soulwash">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SoulWash&show_icons=true&theme=aura&include_all_commits=true&count_privite=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SoulWash&show_icons=true&theme=aura&include_all_commits=true&count_public=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulWash&layout=compact&langs_count=6&theme=aura"/>
 
 </div>
